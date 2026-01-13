@@ -3,6 +3,7 @@
 A modern, responsive web application to find DaVita dialysis facilities near you.
 
 ![DaVita Facility Locator](screenshot.png)
+![DaVita Facility Locator Full View](screenshot_full.png)
 
 ## Features
 
