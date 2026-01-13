@@ -2,8 +2,7 @@
 
 A modern, responsive web application to find DaVita dialysis facilities near you.
 
-![DaVita Facility Locator](https://davita-facility-lookup-tool-bg58qjtsh-venkas-projects.vercel.app/screenshot.png) 
-*(Note: Replace with actual screenshot if available)*
+![DaVita Facility Locator](screenshot.png)
 
 ## Features
 
